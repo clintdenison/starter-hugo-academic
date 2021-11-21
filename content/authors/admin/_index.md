@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: G. Clint Denison
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,30 +10,31 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Mukogawa Women's University
+  url: https://www.mukogawa-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a lecturer at Mukogawa Women's University in Hyogo, Japan and a Ph.D. candidate at Temple University Japan, Osaka Campus. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Productive Language Development
+- Language Assessment
+- EFL Writing
+- Vocabulary Learning and Instruction
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Linguisics
+    institution: Temple University Japan
+    year: Ongoing
+  - course: MSEd in TESOL
+    institution: Temple University Japan
+    year: 2015
+  - course: BSc in Computer Science (primary major) and Japanese Language and Culture (secondary major)
+    institution: Eastern Michigan University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,9 +53,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
